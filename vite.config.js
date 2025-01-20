@@ -9,6 +9,13 @@ export default defineConfig({
       input: {
         reactive: "reactive.html",
         ref: "ref.html",
+        computed: "computed.html",
+        style: "style.html",
+        conditional: "conditional.html",
+        inputBinding: "inputbinding.html",
+        watchers: "watchers.html",
+        modals: "modals.html",
+        components: "components.html",
       }
     }
   }
